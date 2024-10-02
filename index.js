@@ -108,3 +108,4 @@ const assigNames = {
   nestedPartner: "Miss Piggy"
 }
 const {song2, song4, nestedJob, nestedPartner} = assigNames;
+
